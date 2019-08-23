@@ -22,4 +22,4 @@
 
 [Studypoint exercise](https://github.com/amandajuhl95/week34/tree/master/friday/studypoint_exercise) - solution completed!
 
-[Link to droplet|(http://167.71.58.2:8080/studypointexercise/api/bankcustomer) - solution completed!
+[Link to droplet](http://167.71.58.2:8080/studypointexercise/api/bankcustomer) - solution completed!
