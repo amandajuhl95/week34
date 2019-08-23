@@ -1,14 +1,14 @@
 ## Week 34 - exercises 
 
-### Tuesday
+### Tuesday - COMPLETE!
 
-Exercise 1-3 complete!
-[Exercise 1](
+[Exercise 1](https://github.com/amandajuhl95/week34/tree/master/tuesday/ex-1/point)
 [Exercise 2-3](https://github.com/amandajuhl95/week34/tree/master/tuesday/ex-2-3/names)
 
-### Wednesday
+### Wednesday - COMPLETE!
 
-Exercise complete!
+[Exercise 1-3]()
+[Exercise 4](https://github.com/amandajuhl95/week34/tree/master/tuesday/ex-2-3/names)
 
 ### Thursday
 
