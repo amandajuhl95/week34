@@ -1,4 +1,4 @@
-## Exercises - week34
+## Week 34 - exercises 
 
 ### Tuesday
 
