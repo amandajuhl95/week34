@@ -11,7 +11,8 @@ Exercise complete!
 ### Thursday
 
 Exercise complete!
-Linket (tomcat) til torsdagsopgaven er [her](http://167.71.58.2:8080/week1day4/api/employee) 
+
+Linket (tomcat) til torsdagsopgaven er [her](http://167.71.58.2:8080/week1day4/api/employee) - det er muligt at søge på /all /highestpaid /{id} /name/{name} 
 
 ### Friday
 
