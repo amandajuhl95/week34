@@ -2,7 +2,9 @@
 
 ### Tuesday
 
-Exercise complete!
+Exercise 1-3 complete!
+[Exercise 1](
+[Exercise 2-3](https://github.com/amandajuhl95/week34/tree/master/tuesday/ex-2-3/names)
 
 ### Wednesday
 
