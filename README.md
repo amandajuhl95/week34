@@ -20,7 +20,6 @@
 
 ### Friday
 
-[Studypoint exercise]() - solution completed!
-[
+[Studypoint exercise](https://github.com/amandajuhl95/week34/tree/master/friday/studypoint_exercise) - solution completed!
 
-Linket (tomcat) til fredagsopgaven er [her](http://167.71.58.2:8080/studypointexercise/api/bankcustomer) - søg først på /all for at vide hvilke id der er tilgængelige, således man kan søge efter et /{id}
+[Link to droplet|(http://167.71.58.2:8080/studypointexercise/api/bankcustomer) - solution completed!
